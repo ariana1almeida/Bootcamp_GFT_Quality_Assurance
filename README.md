@@ -13,7 +13,7 @@ Aqui você irá encontrar minhas anotações e meus exercícios feitos durante a
 - Metodologias Ágeis e Ciclo de Desenvolvimento de Software :green_book:
 - Introdução ao Git e ao GitHub :green_book:
 - Introdução a Criação de Websites com HTML5 e CSS3 :green_book:
-- Projeto: O Dia a Dia de um QA: A prática de Testes Manuais Funcionais :open_book:
+- Projeto: O Dia a Dia de um QA: A prática de Testes Manuais Funcionais :green_book:
 
 
 
